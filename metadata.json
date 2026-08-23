@@ -1,0 +1,6 @@
+{
+  "name": "SecurQuote - Sistema de Orçamentos para Segurança Eletrônica",
+  "description": "Sistema ágil e profissional para criação, gestão e emissão de orçamentos de venda e instalação de equipamentos de segurança eletrônica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
